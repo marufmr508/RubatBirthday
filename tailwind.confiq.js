@@ -1,0 +1,3 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100..800&display=swap');
+</style>
